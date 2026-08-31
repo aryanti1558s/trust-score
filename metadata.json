@@ -1,0 +1,8 @@
+{
+  "name": "Remix TrustScore - Alternative Credit Scoring",
+  "description": "AI-powered alternative credit scoring platform evaluating 10 key alternative data signals for first-time borrowers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
