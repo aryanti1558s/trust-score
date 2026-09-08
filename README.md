@@ -1,3 +1,5 @@
+website link:- https://remix-remix-trustscore-alternative-credit-scoring-8429.ai.studio
+
 # TrustScore — AI-Powered Alternative Credit Scoring
 
 > Alternative credit scoring engine tailored for first-time borrowers, gig workers, small business owners, and underserved individuals by evaluating 10 comprehensive data signals beyond traditional CIBIL/bureau scores.
